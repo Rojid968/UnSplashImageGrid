@@ -1,0 +1,9 @@
+
+=kotlin:S125N"Remove this commented out code.(Ú÷ˆ8÷Ë»ï1
+<kotlin:S6310„"Avoid hardcoded dispatchers.(ÏÃâ8Åÿ‹»ï1
+Mkotlin:S1481=".Remove this unused "listState" local variable.(ó­ÚÀ8€Ì»ï1
+9kotlin:S1128"Remove this unused import.(§¨ê8£ê“»ï1
+9kotlin:S1128"Remove this unused import.(™òæÜ8ƒÌ»ï1
+8kotlin:S1128"Remove this unused import.(òÁb8£ê“»ï1
+>kotlin:S1128"Remove this unused import.(ÎÛ°Òúÿÿÿÿ8¥¥‘»ï1
+Pkotlin:S6518y",Replace function call with indexed accessor.(ÂØèËøÿÿÿÿ8Ñÿ‹»ï1
